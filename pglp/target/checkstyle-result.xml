@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/user/Bureau/pglp_5.1/pglp/src/main/java/lylia/App.java">
+<error line="8" column="1" severity="warning" message="&apos;{&apos; at column 1 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="9" column="28" severity="warning" message="&apos;(&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="9" column="44" severity="warning" message="&apos;)&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="10" column="5" severity="warning" message="&apos;{&apos; at column 5 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="11" column="27" severity="warning" message="&apos;(&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="11" column="44" severity="warning" message="&apos;)&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+</checkstyle>
